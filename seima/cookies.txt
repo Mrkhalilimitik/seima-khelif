@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.web-design-prod.fr	TRUE	/	FALSE	1999999999	cSRxarjuYL-stO	4FlLKrTwReG
-www.web-design-prod.fr	TRUE	/	FALSE	1999999999	KozXlxb	1uIwJPNhfa%400m
-www.web-design-prod.fr	TRUE	/	FALSE	1999999999	gTDAVdQOtwY-a	kZ3FDeEuM
-www.web-design-prod.fr	TRUE	/	FALSE	1999999999	qkalG-sUDI	SjA%405q3h6GKMvQP
-
