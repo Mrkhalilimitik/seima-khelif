@@ -2,9 +2,8 @@
   "routes": [
     {
       "route": "/*",
-      "serve": "/www.web-design-prod.fr/",
+      "serve": "/www.web-design-prod.fr/index.html",
       "statusCode": 200
     }
   ]
 }
-
