@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "serve": "/www.web-design-prod.fr/",
+      "statusCode": 200
+    }
+  ]
+}
+
